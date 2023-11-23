@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pranavpm994
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Achine learning and automation
-- 💞️ I’m looking to collaborate on Machine learning
+- 🌱 I’m currently learning react,nextjs,tailwind,azure, machine learning...
 - 📫 How to reach me ...
 
 <!---
