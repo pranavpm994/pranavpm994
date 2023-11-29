@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @pranavpm994
+- 👋 Hi, I’m Pranav
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning react,nextjs,tailwind,azure, machine learning...
-- 📫 How to reach me ...
 
 <!---
 pranavpm994/pranavpm994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
